@@ -1,0 +1,13 @@
+.container{
+    margin-top: 20px;
+}
+.dropdown:hover > ul{
+    display: block;
+    margin-top: 0;
+}
+.dropdown-menu>li>a.link-logout{
+    color: #d9534f;
+}
+.list-group-item.active{
+    background-color: red;
+}
